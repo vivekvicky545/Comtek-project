@@ -5,9 +5,9 @@ const app = express();
 const port = 3000;
  
 // MongoDB connection URL
-const mongoURL = 'mongodb://db.domain.com:27017'; // Replace with your MongoDB URL
-const dbName = 'your_database_name';
-const collectionName = 'your_collection_name';
+const mongoURL = 'mongodb://44.221.163.227:27017'; 
+const dbName = 'mydatabase';
+const collectionName = 'mycollection';
  
 // Middleware to parse JSON
 app.use(express.json());
