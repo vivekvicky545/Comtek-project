@@ -1,0 +1,11 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "accepts data",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.3.1"
+  }
+}
+
