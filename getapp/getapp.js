@@ -5,7 +5,7 @@ const app = express();
 const port = 3001;
 
 // MongoDB connection URL
-const mongoURL = 'mongodb://44.221.163.227:27017'; 
+const mongoURL = 'mongodb://db.modernmenu.in:27017'; 
 const dbName = 'mydatabase';
 const collectionName = 'mycollection';
 
